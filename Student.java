@@ -7,6 +7,6 @@ public class Student(){
     lastname = l;
   }
   public String toString(){
-    return firstname + ", " + lastname;
+    return firstname + ", " + lastname "goes to P.E.T.H.S.";
   }
 }
