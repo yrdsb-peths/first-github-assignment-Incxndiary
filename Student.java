@@ -9,6 +9,6 @@ public class Student(){
     volunteerHours = vH;
   }
   public String toString(){
-    return firstname + ", " + lastname "goes to P.E.T.H.S. has " + volunteerHours " volunteer hours";
+    return firstname + " " + lastname + " goes to P.E.T.H.S., and has " + volunteerHours + " volunteer hours";
   }
 }
